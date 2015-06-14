@@ -1,2 +1,2 @@
 # Deeply
-Deep neural networks implemented in [Likely](www.liblikely.org)
+Deep neural networks implemented in [Likely](http://liblikely.org)
